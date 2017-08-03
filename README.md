@@ -1,3 +1,5 @@
+[.NET Fringe 30 minute version](https://www.youtube.com/watch?v=zOqcA0Ntcjk)
+
 Hello KCDC 2017! Here's the 1 hour version of my [KCDC talk](https://github.com/saraford/psychology-dev-tool-usability/blob/master/The%20Psychology%20of%20Developer%20Tool%20Usability%20KCDC.pdf) 
 
 Hello SVCC 2016! Here's my 75 minute version of my [SVCC talk](https://github.com/saraford/psychology-dev-tool-usability/blob/master/ThePsycOfDevTools.pdf)
